@@ -7,4 +7,4 @@
 | Customization         | Boosts (CSS), creative tools, visual tweaks     | Custom AI instructions; workflow automation               | Very limited personalization                 |
 | Innovation Focus      | Reimagine browsing workflows                    | Integrate AI into every step of browsing                  | Speed, privacy, consistency                  |
 | Strengths             | Organization, creativity, modern ergonomics     | Automation, summarization, intent-driven tasks            | Power efficiency, Apple ecosystem harmony    |
-| Best For              | Designers, power users, people who work in modes| Researchers, content-heavy users, automation-driven flows | Minimalists, Mac users, stability-first      |
+| Best For              | Designers, power users, people who work in modes| Researchers, content-heavy workflows                      | Minimalists, Mac users, stability-first      |
